@@ -9,7 +9,8 @@
 i = 0
 track = nil
 File.open('songChoices.txt').each do |line|
-	if (line != ":::")
+	if (line != ":::\n")
+		print "#{i}"
 		if (i == 0)
 			song = line.split(",")
 			title = song[0]
