@@ -1,0 +1,144 @@
+Applause,Lady Gaga
+Girl Gone Wild,Madonna
+Bad Romance,Lady Gaga
+Roar,Katy Perry
+:::
+Bad,Michael Jackson
+Thriller,Michael Jackson
+Ghostbusters,Ray Parker Jr.
+Don't Stop Believen',Journey
+:::
+Bohemian Rhapsody,Queen
+Somebody To Love,Queen
+Stairway To Heaven,Led Zeppelin
+Won't Get Fooled Again,The Who
+:::
+Can't Hold Us,Macklemore
+Thrift Shop,Macklemore
+The Real Slim Shady,Emenem
+Let Me Take a Selfie,The Chainsmokers
+:::
+Circle Of Life,Elton John
+Vuelie,Christophe Beck
+You've Got A Friend In Me,Randy Newman
+I Just Can't Wait To Be King,Elton John
+:::
+Cowboy Casanova,Carrie Underwood
+Good Girl,Carrie Underwood
+Jesus Take The Wheel,Carrie Underwood
+Before He Cheats,Carrie Underwood
+:::
+Dark Horse,Katy Perry
+Glamorous,Fergie
+22,Taylor Swift
+Wrecking Ball,Miley Cyrus
+:::
+Defying Gravity,Idina Menzel
+Popular,Kristin Chenoweth
+Let It Go,Idina Menzel
+You And Me,Andrew Rannells
+:::
+Do You Want To Build A Snowman,Kristen Bell
+For The First Time In Forever,Kristen Bell
+Part Of Your World,Jodi Benson
+A Whole New World,Brad Kane and Lea Salonga
+:::
+Drops Of Jupiter,Train
+Calling All Angels,Train
+Drive By,Train
+Payphone,Maroon 5
+:::
+Enter Sandman,Metallica
+Toxicity,System of a Down
+Them Bones,Alice in Chains
+Sweet Child of Mine,Guns And Roses
+:::
+Everybody,Backstreet Boys
+Bye Bye Bye,Nsync
+Larger Than Life,Backstreet Boys
+Dirty Pop,Nsync
+:::
+Feeling Good,Nina Samone
+Glory Box,Portishead
+Back to Black,Amy Winehouse
+Ain't No Sunshine,Bill Withers
+:::
+Happy,Pharrell Williams
+Cups,Anna Kendrick
+Best Day of My Life,American Authors
+Fingertips,Stevie Wonder
+:::
+Heartbreaker,Led Zeppelin
+Cashmir,Led Zeppelin
+Black Dog,Led Zeppelin
+All Of My Love,Led Zeppelin
+:::
+Let It Go,Idina Menzel
+Love Song,Sara Bareilles
+Let Her Go,Passenger
+Defying Gravity,Idina Menzel
+:::
+My Way,Frank Sinatra
+NewYork NewYork,Frank Sinatra
+Luck Be A Lady,Frank Sinatra
+Fly Me To The Room,Frank Sinatra
+:::
+Renegade,Styx
+Pour Some Sugar On Me,Def Leppard
+Wanted Dead or Alive,Bon Jovi
+Mister Soul,CSNY
+:::
+Royals,Lorde
+Wake Me Up,Avicii
+Roar,Katy Perry
+Radioactive,Imagine Dragons
+:::
+Run The World,Beyonce
+Telephone,Lady Gaga
+Where Have You Been,Rhianna
+Whip My Hair,Willow Smith
+:::
+Safe and Sound,Capital Cities
+Hey Brother,Avicii
+Brave,Sara Bareilles
+Summertime Sadness,Lana Del Rey
+:::
+Sandstorm,Darude
+Tell Me,Darude
+Zombie Nation,Kernkraft 400
+Feel The Beat,Darude
+:::
+Simple Man,Shinedown
+Let Her Cry,Hootie and the Blowfish
+In The Air Tonight,Phil Collins
+Wanted Dead or Alive,Bon Jovi
+:::
+Skyfall,Adele
+A Thousand Years,Christina Perri
+Girl On Fire,Alicia Keys
+Video Games,Lana Del Rey
+:::
+Star Wars Theme,John Williams
+The Raiders March,John Williams
+The Imperial March,John Williams
+Ghost Busters,Ray Parker Jr.
+:::
+Talk Dirty,Jason Derulo
+Drunkin Love,Beyonce
+Couting Stars,One Republic
+Timber,Ke$ha
+:::
+TNT,ACDC
+Crazy Train,Ozzy Osbourne
+Welcome to the Jungle,Guns Roses
+Smells Like Teen Spirit,Nirvana
+:::
+Viva La Vida,Coldplay
+Demons,Imagine Dragons
+21 Guns,Greenday
+How to Save a Life,The Fray
+:::
+Wobble,V.I.C.
+Cupid Shuffle,Cupid
+Cha Cha Slide,DJ Casper
+Electric Slide,Marcia Griffiths 
