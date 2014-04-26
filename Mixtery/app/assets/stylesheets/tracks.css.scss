@@ -2,6 +2,26 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 
+// #validate_answer {
+// }
+
+h1{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#questions{
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  display:block;
+  border: 1px solid;
+  background-color: #D2B48C;
+  opacity: 0.9;
+}
+
 ul {
   list-style: none;
 }
@@ -9,7 +29,7 @@ ul {
 body
 {
 	background-image:url('magnifying-glass.jpg');
-	background-repeat:no-repeat;
+	// background-repeat:no-repeat;
 	background-color:#cccccc;
 }
 

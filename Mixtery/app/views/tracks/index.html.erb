@@ -1,24 +1,28 @@
-<h1>Mixtery</h1>
+
 
 <p id="validate_answer"> </p>
 
-<ul>
-  <% @tracks_hash.each do |name, mocks| %>
-  <li>
-    </br>
-    <audio controls>
-      <source src ="/assets/<%= name %>.mp3" type="audio/mpeg">
-    </audio>
-  </br>
-</br>
-    <% mocks.each do |mock| %>
-      <input type="radio" value="<%= mock.name %>" data="<%= true if mock.class == Track %>"><%= mock.name %><br>
+<div id="questions">
+
+  <div id= "mixtery">
+    <h1>Mixtery</h1>
+  </div>
+
+  <ul>
+    <% @tracks_hash.each do |name, mocks| %>
+    <li>
       </br>
+      <audio controls>
+        <source src ="/assets/<%= name %>.mp3" type="audio/mpeg">
+      </audio>
+    </br>
+  </br>
+      <% mocks.each do |mock| %>
+        <input type="radio" value="<%= mock.name %>" data="<%= true if mock.class == Track %>"><%= mock.name %><br>
+        </br>
+      <% end %>
+    </li>
     <% end %>
-  </li>
-  <% end %>
-</ul>
+  </ul>
+</div>
 
-<br>
-
-<%= link_to 'New Track', new_track_path %>
