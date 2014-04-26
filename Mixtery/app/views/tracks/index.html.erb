@@ -1,25 +1,17 @@
 <h1>Listing tracks</h1>
 
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
-
-  <tbody>
-      <tr>
-  <td>
+<ul>
+  <% @tracks.each do |track| %>
+  <li>
+    <%= track.name %>
     <audio controls>
-      <source src ="/assets/example_song.mp3" type="audio/mpeg">
+      <source src ="/assets/<%= track.name %>.mp3" type="audio/mpeg">
     </audio>
-  </td>
-      </tr>
-  </tbody>
-</table>
+    <input type="radio" value="">Male<br>
+    <input type="radio" value="female">Female
+  </li>
+  <% end %>
+</ul>
 
 <br>
 

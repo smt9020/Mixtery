@@ -34,6 +34,8 @@ ActiveRecord::Schema.define(version: 20140426195813) do
 
   create_table "tracks", force: true do |t|
     t.string   "name"
+    t.integer  "artist_id"
+    t.integer  "genre_id"
     t.datetime "created_at"
     t.datetime "updated_at"
   end
