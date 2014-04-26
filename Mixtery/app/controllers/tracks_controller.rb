@@ -5,6 +5,16 @@ class TracksController < ApplicationController
   # GET /tracks.json
   def index
     @tracks = Track.all
+    @tracks_hash = {}
+    @tracks.each do |track|
+      mocks = []
+      track.mock_tracks.each do |mock_track|
+        mocks << mock_track
+      end
+      mocks << track
+      mocks.shuffle!
+      @tracks_hash[track.name] = mocks
+    end
   end
 
   # GET /tracks/1

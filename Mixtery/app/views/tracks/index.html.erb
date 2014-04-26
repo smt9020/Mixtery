@@ -1,14 +1,19 @@
-<h1>Listing tracks</h1>
+<h1>Mixtery</h1>
 
 <ul>
-  <% @tracks.each do |track| %>
+  <% @tracks_hash.each do |name, mocks| %>
   <li>
-    <%= track.name %>
+    <%= name %>
+    </br>
     <audio controls>
-      <source src ="/assets/<%= track.name %>.mp3" type="audio/mpeg">
+      <source src ="/assets/<%= name %>.mp3" type="audio/mpeg">
     </audio>
-    <input type="radio" value="">Male<br>
-    <input type="radio" value="female">Female
+  </br>
+</br>
+    <% mocks.each do |mock| %>
+      <input type="radio" value="<%= mock.name %>"><%= mock.name %><br>
+      </br>
+    <% end %>
   </li>
   <% end %>
 </ul>

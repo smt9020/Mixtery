@@ -34,6 +34,15 @@ end
 
 gem 'protected_attributes'
 
+group :development do
+  gem 'pry-rails'
+  gem 'better_errors'
+  gem 'binding_of_caller'
+  gem 'meta_request'
+#  gem 'sunspot_solr'
+  # gem 'rack-mini-profiler'
+end
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
