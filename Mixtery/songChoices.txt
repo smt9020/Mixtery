@@ -1,0 +1,51 @@
+Applause,Lady Gaga
+Girl Gone Wild,Madonna
+Bad Romance,Lady Gaga
+Roar,Katy Perry
+:::
+Bad,Michael Jackson
+Thriller,Michael Jackson
+Ghostbusters,Ray Parker Jr.
+Don't Stop Believen',Journey
+:::
+Bohemian Rhapsody,Queen
+Somebody To Love,Queen
+Stairway To Heaven,Led Zeppelin
+Won't Get Fooled Again,The Who
+:::
+Can't Hold Us,Macklemore
+Thrift Shop,Macklemore
+The Real Slim Shady,Emenem
+Let Me Take a Selfie,The Chainsmokers
+:::
+Circle Of Life,Elton John
+Vuelie,Christophe Beck
+You've Got A Friend In Me,Randy Newman
+I Just Can't Wait To Be King,Elton John
+:::
+Cowboy Casanova,Carrie Underwood
+Good Girl,Carrie Underwood
+Jesus Take The Wheel,Carrie Underwood
+Before He Cheats,Carrie Underwood
+:::
+Dark Horse,Katy Perry
+Glamorous,Fergie
+22,Taylor Swift
+Wrecking Ball,Miley Cyrus
+:::
+Defying Gravity,Idina Menzel
+Popular,Kristin Chenoweth
+Let It Go,Idina Menzel
+You And Me,Andrew Rannells
+:::
+Do You Want To Build A Snowman?,Kristen Bell
+For The First Time In Forever,Kristen Bell
+Part Of Your World,Jodi Benson
+A Whole New World,Brad Kane and Lea Salonga
+:::
+Drops Of Jupiter,Train
+Calling All Angels,Train
+Drive By,Train
+Payphone,Maroon 5
+:::
+Enter Sandman,Metallica
