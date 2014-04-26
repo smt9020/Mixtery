@@ -1,0 +1,29 @@
+<h1>Listing mock_tracks</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Track</th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @mock_tracks.each do |mock_track| %>
+      <tr>
+        <td><%= mock_track.name %></td>
+        <td><%= mock_track.track_id %></td>
+        <td><%= link_to 'Show', mock_track %></td>
+        <td><%= link_to 'Edit', edit_mock_track_path(mock_track) %></td>
+        <td><%= link_to 'Destroy', mock_track, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Mock track', new_mock_track_path %>

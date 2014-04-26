@@ -1,0 +1,14 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @mock_track.name %>
+</p>
+
+<p>
+  <strong>Track:</strong>
+  <%= @mock_track.track_id %>
+</p>
+
+<%= link_to 'Edit', edit_mock_track_path(@mock_track) %> |
+<%= link_to 'Back', mock_tracks_path %>

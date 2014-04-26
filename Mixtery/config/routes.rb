@@ -1,4 +1,6 @@
 Mixtery::Application.routes.draw do
+  resources :mock_tracks
+
   resources :tracks
 
   root :to => "tracks#index"
