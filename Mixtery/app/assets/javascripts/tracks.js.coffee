@@ -5,6 +5,6 @@ $(document).ready ->
 
   $('input[type="radio"]').click ->
     if $(this).attr('data') == "true"
-      $('#validate_answer').html("Correct!")
+      $(this).parent().append("<div class='right_answer_status'> Correct! </div>")
     else
-      $('#validate_answer').html("Try again!")
+      $(this).parent().append("<div class='wrong_answer_status'> Try Again </div>")

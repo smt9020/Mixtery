@@ -5,6 +5,16 @@
 // #validate_answer {
 // }
 
+.right_answer_status{
+  font-weight: bold;
+  color: green;
+}
+
+.wrong_answer_status{
+  font-weight: bold;
+  color: red;
+}
+
 h1{
   width: 400px;
   margin-left: auto;
